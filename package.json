@@ -1,6 +1,6 @@
 {
   "name": "pom-test-harness",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Provides Pomegranate plugin test harnesses for various test frameworks.",
   "main": "index.js",
   "keywords": [
