@@ -1,0 +1,15 @@
+{
+  "name": "pom-test-harness",
+  "version": "0.0.0",
+  "description": "Provides Pomegranate plugin test harnesses for various test frameworks.",
+  "main": "index.js",
+  "keywords": [
+    "Pomegranate",
+    "structural"
+  ],
+  "author": "Jim Bulkowski <jim.b@paperelectron.com> (http://paperelectron.com)",
+  "license": "MIT",
+  "dependencies": {
+    "pom-framework-utils": "^0.0.3"
+  }
+}
